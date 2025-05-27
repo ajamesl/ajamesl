@@ -4,7 +4,7 @@ Hi 👋
 
 I'm a Data Scientist with a PhD in physics, possessing expertise in data analysis, modelling, and machine learning.
 
-Passionate about applying scientific rigor and analytical thinking to solve real-world business problems.
+Passionate about applying scientific rigor and analytical thinking to solve real-world business challenges.
 
 <!--## 📂 Projects
 
