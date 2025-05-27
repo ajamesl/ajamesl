@@ -1,16 +1,32 @@
-## Hi there 👋
+## Who is Arjuna?
 
-<!--
-**ajamesl/ajamesl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 
+I'm a Data Scientist with a PhD in physics, possessing expertise in data analysis, modelling, and machine learning.
 
-Here are some ideas to get you started:
+Passionate about applying scientific rigor and analytical thinking to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--## 📂 Projects
+
+My portfolio showcases my [projects](#).
 -->
+
+## 🛠 Tools
+
+**Languages**: Python, SQL
+**Databases**: Google BigQuery, SQLite, PostgreSQL, MySQL
+
+
+## 🧪 Selected Publications
+
+- **The Temporal Brightening of Uranus' Northern Polar Hood From HST/WFC3 and HST/STIS Observations**  
+  JGR: Planets, [DOI](https://doi.org/10.1029/2023JE007904)
+
+- **Spectral determination of the colour and vertical structure of dark spots in Neptune’s atmosphere**  
+  Nature Astronomy, [DOI](https://doi.org/10.1038/s41550-023-02047-0)
+
+- **Targeted fluorescence lifetime probes reveal responsive organelle viscosity and membrane fluidity**  
+  PLOS One, [DOI](https://doi.org/10.1371/journal.pone.0211165)
+
+[👉 Click to see all publications](https://orcid.org/0000-0003-1482-9306)
+
+<!--**Visualization**-->
