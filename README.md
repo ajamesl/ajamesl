@@ -17,6 +17,8 @@ My portfolio showcases my [projects](#).
 
 **Databases**: Google BigQuery, SQLite, PostgreSQL, MySQL
 
+**Machine Learning**: scikit-learn, XGBoost
+
 
 ## 🧪 Selected Publications
 
@@ -30,7 +32,7 @@ My portfolio showcases my [projects](#).
   PLOS One (2019), [DOI](https://doi.org/10.1371/journal.pone.0211165)
 
 - **Spatial & Temporal Variability in the Uranian Atmosphere (PhD Thesis)**  
-  University of Oxford (2023), [DOI](https://ora.ox.ac.uk/objects/uuid:cd3a6bb2-bb91-483c-99b7-a382b485416b)
+  University of Oxford (2023), [ORA](https://ora.ox.ac.uk/objects/uuid:cd3a6bb2-bb91-483c-99b7-a382b485416b)
 
 [👉 Click to see all publications](https://orcid.org/0000-0003-1482-9306)
 
