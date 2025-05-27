@@ -21,13 +21,16 @@ My portfolio showcases my [projects](#).
 ## 🧪 Selected Publications
 
 - **The Temporal Brightening of Uranus' Northern Polar Hood From HST/WFC3 and HST/STIS Observations**  
-  JGR: Planets, [DOI](https://doi.org/10.1029/2023JE007904)
+  JGR: Planets (2023), [DOI](https://doi.org/10.1029/2023JE007904)
 
 - **Spectral determination of the colour and vertical structure of dark spots in Neptune’s atmosphere**  
-  Nature Astronomy, [DOI](https://doi.org/10.1038/s41550-023-02047-0)
+  Nature Astronomy (2023), [DOI](https://doi.org/10.1038/s41550-023-02047-0)
 
 - **Targeted fluorescence lifetime probes reveal responsive organelle viscosity and membrane fluidity**  
-  PLOS One, [DOI](https://doi.org/10.1371/journal.pone.0211165)
+  PLOS One (2019), [DOI](https://doi.org/10.1371/journal.pone.0211165)
+
+- **Spatial & Temporal Variability in the Uranian Atmosphere (PhD Thesis)**  
+  University of Oxford (2023), [DOI](https://ora.ox.ac.uk/objects/uuid:cd3a6bb2-bb91-483c-99b7-a382b485416b)
 
 [👉 Click to see all publications](https://orcid.org/0000-0003-1482-9306)
 
