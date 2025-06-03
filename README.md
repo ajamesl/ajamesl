@@ -15,7 +15,7 @@ My portfolio showcases my [projects](#).
 
 **Languages**: Python, SQL
 
-**Databases**: Google BigQuery, SQLite, PostgreSQL, MySQL
+**Databases**: Google BigQuery, SQLite, PostgreSQL
 
 **Machine Learning**: scikit-learn, XGBoost
 
