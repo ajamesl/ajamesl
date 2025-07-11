@@ -2,9 +2,9 @@
 
 Hi 👋 
 
-I'm a Data Scientist with a PhD in physics, possessing expertise in data analysis, modelling, and machine learning.
+I'm a Machine Learning Engineer with a PhD in physics, possessing expertise in data analysis, deep learning, generative AI, and deployment.
 
-Passionate about applying scientific rigor and analytical thinking to solve real-world business challenges.
+Passionate about applying scientific rigor and analytical thinking to solve real-world business challenges and accelerate acientific discovery.
 
 <!--## 📂 Projects
 
@@ -15,9 +15,11 @@ My portfolio showcases my [projects](#).
 
 **Languages**: Python, SQL
 
+**Machine Learning**: PyTorch, scikit-learn, XGBoost
+
 **Databases**: Google BigQuery, SQLite, PostgreSQL
 
-**Machine Learning**: scikit-learn, XGBoost
+**Deployment**: Docker, Docker Compose, FastAPI, Streamlit
 
 
 ## 🧪 Selected Publications
