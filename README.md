@@ -19,7 +19,7 @@ My portfolio showcases my [projects](#).
 
 **Databases**: Google BigQuery, SQLite, PostgreSQL
 
-**Deployment**: Docker, Docker Compose, FastAPI, Streamlit
+**Deployment**: Docker, FastAPI, Streamlit
 
 
 ## 🧪 Selected Publications
