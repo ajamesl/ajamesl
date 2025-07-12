@@ -4,7 +4,7 @@ Hi 👋
 
 I'm a Machine Learning Engineer with a PhD in physics from the University of Oxford, possessing expertise in data analysis, deep learning, generative AI, and deployment.
 
-Passionate about applying scientific rigor and analytical thinking to solve real-world business challenges and accelerating scientific discovery through AI.
+Passionate about applying scientific rigor and analytical thinking to solve real-world business challenges and accelerate scientific discovery through AI.
 
 <!--## 📂 Projects
 
@@ -15,11 +15,13 @@ My portfolio showcases my [projects](#).
 
 **Languages**: Python, SQL
 
-**Machine Learning**: PyTorch, scikit-learn, XGBoost
+**Machine Learning & MLOps**: PyTorch, scikit-learn, XGBoost, wandb
 
-**Databases**: Google BigQuery, SQLite, PostgreSQL
+**Databases**: PostgreSQL, SQLite, Google BigQuery
 
 **Deployment**: Docker, FastAPI, Streamlit
+
+**Version Control**: Git, GitHub
 
 
 ## 🧪 Selected Publications
