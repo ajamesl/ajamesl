@@ -12,29 +12,6 @@ I'm a Machine Learning Engineer with a PhD in physics from the University of Oxf
 
 ---
 
-## 📂 Selected Projects
-
-### 💬 [MiniChat](https://github.com/ajamesl/mini-chat-llm)
-[Live Demo](http://65.109.84.92:7000/)
-
-A multilingual LLM chat assistant served with FastAPI, using a Qwen3 0.6B Base model fine-tuned via SFT and further optimised with RLHF (PPO). Clean, modern web UI with real-time, token-by-token streaming and full Docker support.
-
-**Key Features:**
-- Multilingual chat with advanced, RLHF-trained model.
-- Responsive FastAPI+Docker backend; modern streaming UI.
-
-
-### 🤖 [MiniAgent](https://github.com/ajamesl/mini-whisper-agent)
-
-A 24-hour project: a low-latency voice-activated AI agent that carries out browser tasks autonomously via voice commands.
-
-**Key Features:**
-- Fast, fine-tuned Whisper (tiny) model for robust voice recognition.
-- Modular: easily extend commands or retrain on your own audio.
-- Ready-to-use with pre-trained model included.
-
----
-
 ## 🛠 Tools
 
 **Languages**: Python, SQL
@@ -65,4 +42,26 @@ A 24-hour project: a low-latency voice-activated AI agent that carries out brows
 
 [👉 Click to see all publications](https://orcid.org/0000-0003-1482-9306)
 
+---
+
+## 📂 Selected Projects
+
+### 💬 [MiniChat](https://github.com/ajamesl/mini-chat-llm)
+[Live Demo](http://65.109.84.92:7000/)
+
+A multilingual LLM chat assistant served with FastAPI, using a Qwen3 0.6B Base model fine-tuned via SFT and further optimised with RLHF (PPO). Clean, modern web UI with real-time, token-by-token streaming and full Docker support.
+
+**Key Features:**
+- Multilingual chat with advanced, RLHF-trained model.
+- Responsive FastAPI+Docker backend; modern streaming UI.
+
+
+### 🤖 [MiniAgent](https://github.com/ajamesl/mini-whisper-agent)
+
+A 24-hour project: a low-latency voice-activated AI agent that carries out browser tasks autonomously via voice commands.
+
+**Key Features:**
+- Fast, fine-tuned Whisper (tiny) model for robust voice recognition.
+- Modular: easily extend commands or retrain on your own audio.
+- Ready-to-use with pre-trained model included.
 <!--**Visualization**-->
