@@ -2,11 +2,11 @@
 
 I'm a Machine Learning Engineer with a PhD in physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
 
-+ Skilled at rapidly adapting to new domains
++ Skilled at rapidly adapting to new domains.
 
-+ Excel in interdisciplinary environments
++ Excel in interdisciplinary environments.
 
-+ Driven by curiosity
++ Driven by curiosity.
 
 + Passionate about applying scientific rigour and analytical thinking to solve real-world business challenges.
 
@@ -20,8 +20,8 @@ I'm a Machine Learning Engineer with a PhD in physics from the University of Oxf
 A multilingual LLM chat assistant served with FastAPI, using a Qwen3 0.6B Base model fine-tuned via SFT and further optimised with RLHF (PPO). Clean, modern web UI with real-time, token-by-token streaming and full Docker support.
 
 **Key Features:**
-- Multilingual chat with advanced, RLHF-trained model
-- Responsive FastAPI+Docker backend; modern streaming UI
+- Multilingual chat with advanced, RLHF-trained model.
+- Responsive FastAPI+Docker backend; modern streaming UI.
 
 
 ### 🤖 [MiniAgent](https://github.com/ajamesl/mini-whisper-agent)
@@ -29,9 +29,9 @@ A multilingual LLM chat assistant served with FastAPI, using a Qwen3 0.6B Base m
 A 24-hour project: a low-latency voice-activated AI agent that carries out browser tasks autonomously via voice commands.
 
 **Key Features:**
-- Fast, fine-tuned Whisper (tiny) model for robust voice recognition
-- Modular: easily extend commands or retrain on your own audio
-- Ready-to-use with pre-trained model included
+- Fast, fine-tuned Whisper (tiny) model for robust voice recognition.
+- Modular: easily extend commands or retrain on your own audio.
+- Ready-to-use with pre-trained model included.
 
 ---
 
