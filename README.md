@@ -2,9 +2,15 @@
 
 Hi 👋 
 
-I'm a Machine Learning Engineer with a PhD in physics from the University of Oxford, possessing expertise in data analysis, deep learning, generative AI, and deployment.
+I'm a Machine Learning Engineer with a PhD in physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
 
-Passionate about applying scientific rigor and analytical thinking to solve real-world business challenges and accelerate scientific discovery through AI.
++ Skilled at rapidly adapting to new domains
+
++ Excel in interdisciplinary environments
+
++ Driven by curiosity
+
++ Passionate for applying scientific rigour and analytical thinking to solve real-world business challenges.
 
 <!--## 📂 Projects
 
