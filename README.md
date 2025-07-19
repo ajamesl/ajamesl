@@ -15,7 +15,7 @@ My portfolio showcases my [projects](#).
 
 **Languages**: Python, SQL
 
-**Machine Learning & MLOps**: PyTorch, scikit-learn, XGBoost, wandb
+**ML & MLOps**: PyTorch, scikit-learn, XGBoost, wandb
 
 **Databases**: PostgreSQL, SQLite, Google BigQuery
 
