@@ -12,6 +12,7 @@ I'm a Machine Learning Engineer with a PhD in physics from the University of Oxf
 
 + Passionate about applying scientific rigour and analytical thinking to solve real-world business challenges.
 
+---
 
 ## 📂 Selected Projects
 
@@ -34,6 +35,7 @@ A 24-hour project: a low-latency voice-activated AI agent that carries out brows
 - Modular: easily extend commands or retrain on your own audio
 - Ready-to-use with pre-trained model included
 
+---
 
 ## 🛠 Tools
 
@@ -47,6 +49,7 @@ A 24-hour project: a low-latency voice-activated AI agent that carries out brows
 
 **Version Control**: Git, GitHub
 
+---
 
 ## 🧪 Selected Publications
 
