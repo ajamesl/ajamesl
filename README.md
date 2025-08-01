@@ -6,9 +6,9 @@ I'm a Machine Learning Engineer with a PhD in physics from the University of Oxf
 
 + Excel in interdisciplinary environments.
 
-+ Driven by curiosity.
-
-+ Passionate about applying scientific rigour and analytical thinking to solve real-world business challenges.
++ Passionate about applying scientific rigour to solve real-world business challenges.
+  
++ Driven by curiosity and a desire to accelerate scientific discovery through AI.
 
 ---
 
