@@ -16,11 +16,11 @@ I'm a Machine Learning Engineer with a PhD in physics from the University of Oxf
 
 **Languages**: Python, SQL
 
-**ML & MLOps**: PyTorch, scikit-learn, XGBoost, wandb
+**ML & MLOps**: PyTorch, scikit-learn, wandb
 
-**Deployment**: Docker, FastAPI, Streamlit
+**Deployment**: Docker, FastAPI
 
-**Databases**: PostgreSQL, SQLite, Google BigQuery
+**Databases**: PostgreSQL, SQLite
 
 **Version Control**: Git, GitHub
 
