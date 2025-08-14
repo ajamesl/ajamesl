@@ -66,6 +66,6 @@ A multilingual LLM chat assistant served with FastAPI, using Qwen3 0.6B Base mod
 - Ready-to-use with pre-trained model included.
 
 
-### 💬 [CNN Internals](https://github.com/ajamesl/cnn-internals)
+### 🫀 [CNN Internals](https://github.com/ajamesl/cnn-internals)
 
 A reconstruction and internal visualisation of famous CNN architectures over the years using the method of Zeiler & Fergus (2013).
