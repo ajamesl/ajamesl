@@ -1,6 +1,6 @@
 ## Who is Arjuna?
 
-I'm a Machine Learning Engineer with a PhD in physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
+I'm a Research Scientist and Machine Learning Engineer with a PhD in Physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
 
 + Skilled at rapidly adapting to new domains.
 
@@ -44,7 +44,7 @@ I'm a Machine Learning Engineer with a PhD in physics from the University of Oxf
 
 ---
 
-## 📂 Selected Projects
+## Selected Projects
 
 ### 💬 [MiniChat](https://github.com/ajamesl/mini-chat-llm)
 [Live Demo](http://65.109.84.92:7000/)
@@ -64,4 +64,8 @@ A multilingual LLM chat assistant served with FastAPI, using Qwen3 0.6B Base mod
 - Fine-tuned Whisper model for low-latency voice recognition.
 - Modular: easily extend commands or retrain on your own audio.
 - Ready-to-use with pre-trained model included.
-<!--**Visualization**-->
+
+
+### 💬 [CNN Internals](https://github.com/ajamesl/cnn-internals)
+
+A reconstruction and internal visualisation of famous CNN architectures over the years using the method of Zeiler & Fergus (2013).
