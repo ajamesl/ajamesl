@@ -46,6 +46,11 @@ I'm a Research Scientist and Machine Learning Engineer with a PhD in Physics fro
 
 ## Selected Projects
 
+### 🫀 [CNN Interpretability](https://github.com/ajamesl/cnn-interpretability)
+
+A reconstruction and visualisation of the internal activations of famous CNN architectures over the years.
+
+
 ### 💬 [MiniChat](https://github.com/ajamesl/mini-chat-llm)
 [Live Demo](http://65.109.84.92:7000/)
 
@@ -64,8 +69,3 @@ A multilingual LLM chat assistant served with FastAPI, using Qwen3 0.6B Base mod
 - Fine-tuned Whisper model for low-latency voice recognition.
 - Modular: easily extend commands or retrain on your own audio.
 - Ready-to-use with pre-trained model included.
-
-
-### 🫀 [CNN Internals](https://github.com/ajamesl/cnn-internals)
-
-A reconstruction and internal visualisation of famous CNN architectures over the years using the method of Zeiler & Fergus (2013).
