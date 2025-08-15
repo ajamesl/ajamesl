@@ -46,7 +46,7 @@ I'm a Research Scientist and Machine Learning Engineer with a PhD in Physics fro
 
 ## Selected Projects
 
-### 💡 [CNN Interpretability](https://github.com/ajamesl/cnn-interpretability)
+### 🫀 [CNN Internals](https://github.com/ajamesl/cnn-internals)
 
 A reconstruction and visualisation of the internal activations of famous CNN architectures over the years.
 
