@@ -46,11 +46,6 @@ I'm a Machine Learning Engineer with a PhD in Physics from the University of Oxf
 
 ## Selected Projects
 
-### 🫀 [CNN Internals](https://github.com/ajamesl/cnn-internals)
-
-A reconstruction and visualisation of the internal activations of famous CNN architectures over the years.
-
-
 ### 💬 [MiniChat](https://github.com/ajamesl/mini-chat-llm)
 [Live Demo](http://65.109.84.92:7000/)
 
@@ -59,6 +54,14 @@ A multilingual LLM chat assistant served with FastAPI, using Qwen3 0.6B Base mod
 **Key Features:**
 - Multilingual assistant with RLHF-trained model.
 - Responsive FastAPI+Docker backend; modern streaming UI.
+
+
+### 🫀 [CNN Internals](https://github.com/ajamesl/cnn-internals)
+
+A reconstruction and visualisation of the internal activations of famous CNN architectures over the years.
+
+**Including:**
+- LeNet-5
 
 
 ### 🤖 [MiniAgent](https://github.com/ajamesl/mini-whisper-agent)
