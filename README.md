@@ -16,7 +16,7 @@ I'm a Machine Learning Engineer with a PhD in Physics from the University of Oxf
 
 **Languages**: Python, SQL
 
-**ML & MLOps**: PyTorch, scikit-learn, wandb
+**ML & MLOps**: PyTorch, wandb
 
 **Deployment**: Docker, FastAPI
 
