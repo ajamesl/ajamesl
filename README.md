@@ -62,6 +62,11 @@ A reconstruction and visualisation of the internal activations of famous CNN arc
 
 **Including:**
 - LeNet-5
+- AlexNet
+- VGG-16
+- InceptionNet
+- ResNet
+- MobileNet
 
 
 ### 🤖 [MiniAgent](https://github.com/ajamesl/mini-whisper-agent)
