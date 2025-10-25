@@ -20,7 +20,7 @@ I'm a Machine Learning Engineer with a PhD in Physics from the University of Oxf
 
 **Deployment**: Docker, FastAPI
 
-**Databases**: PostgreSQL, SQLite
+**Databases**: Google BigQuery, PostgreSQL, SQLite
 
 **Version Control**: Git, GitHub
 
