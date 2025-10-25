@@ -8,8 +8,6 @@ I'm an AI / Machine Learning Engineer with a PhD in Physics from the University 
 
 + Passionate about applying scientific rigour to solve real-world business challenges.
   
-+ Driven by curiosity and a desire to accelerate scientific discovery through AI.
-
 ---
 
 ## 🛠 Tools
