@@ -1,6 +1,6 @@
 ## Who is Arjuna?
 
-I'm a Machine Learning Engineer with a PhD in Physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
+I'm an AI / Machine Learning Engineer with a PhD in Physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
 
 + Skilled at rapidly adapting to new domains.
 
