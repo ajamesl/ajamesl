@@ -1,6 +1,6 @@
 ## Who is Arjuna?
 
-I'm a Data Scientist & AI / Machine Learning Engineer with a PhD in Physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
+I'm a Data Scientist with a PhD in Physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
 
 + Skilled at rapidly adapting to new domains.
 
@@ -14,11 +14,11 @@ I'm a Data Scientist & AI / Machine Learning Engineer with a PhD in Physics from
 
 **Languages**: Python, SQL
 
-**ML & MLOps**: PyTorch, scikit-learn, wandb
+**ML & MLOps**: scikit-learn, PyTorch, wandb
 
 **Deployment**: Docker, FastAPI
 
-**Databases**: Google BigQuery, PostgreSQL, SQLite
+**Databases**: Google BigQuery, PostgreSQL, SQLite, MySQL
 
 **Version Control**: Git, GitHub
 
