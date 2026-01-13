@@ -18,7 +18,7 @@ I'm a Data Scientist with a PhD in Physics from the University of Oxford, posses
 
 **Deployment**: Docker, FastAPI
 
-**Databases**: Google BigQuery, PostgreSQL, SQLite, MySQL
+**Databases**: Google BigQuery, PostgreSQL, SQLite
 
 **Version Control**: Git, GitHub
 
