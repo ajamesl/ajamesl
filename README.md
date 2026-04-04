@@ -1,12 +1,6 @@
 ## Who is Arjuna?
 
-I'm a Data Scientist with a PhD in Physics from the University of Oxford, possessing a strong foundation in data, deep learning, and model development:
-
-+ Skilled at rapidly adapting to new domains.
-
-+ Excel in interdisciplinary environments.
-
-+ Passionate about applying scientific rigour to solve real-world business challenges.
+I'm a Data Scientist focused on distilling noisy, high-dimensional datasets into strategic insights. Leveraging an Oxford PhD in Physics and a background in complex atmospheric modelling to bridge scientific rigour and business impact. Proficient in Python and SQL with a focus on delivering predictive and interpretable machine learning solutions that drive business value.
   
 ---
 
