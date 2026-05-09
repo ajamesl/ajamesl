@@ -39,7 +39,6 @@ I'm a Data Scientist focused on distilling noisy, high-dimensional datasets into
 ## Selected Projects
 
 ### 💬 [MiniChat](https://github.com/ajamesl/mini-chat-llm)
-[Live Demo](http://65.109.84.92:7000/)
 
 A multilingual LLM chat assistant served with FastAPI, using Qwen3 0.6B Base model fine-tuned via SFT and further optimised with RLHF (PPO). Clean, modern web UI with real-time, token-by-token streaming and full Docker support.
 
